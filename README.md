@@ -2,7 +2,7 @@
 
 # ProotClient Assets
 
-ProotClient is a powerful and feature-rich client for the popular video game Minecraft. It allows players to customize and enhance their Minecraft experience with a wide range of features and options.
+ProotClient is a powerful and feature-rich client for the popular video game [Minecraft (Wikipedia)](https://en.wikipedia.org/wiki/Minecraft). It allows players to customize and enhance their Minecraft experience with a wide range of features and options.
 
 ProotClient Assets is an essential package that serves as the foundation for customizing ProotClient, containing all necessary resources and tools for players to create a unique and personalized experience. The package includes assets such as icons, interfaces, images and more.
 
