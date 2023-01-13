@@ -1,5 +1,4 @@
-<center><img draggable=false src="ProotClient-Assets-Logo.png"></img></center>
-
+<center><img src="ProotClient-Assets-Logo.png"></img></center>
 
 # ProotClient Assets
 
