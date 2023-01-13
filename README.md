@@ -10,6 +10,6 @@ Additionally, the ProotClient Assets package also provides detailed documentatio
 
 # Usage
 
-This package is used just like any other Resourcepack in Minecraft. It can be easily installed and once it is, you have the freedom to modify any aspect of it to suit your personal preferences. With this package, you can truly make ProotClient your own and customize it to your hearts desire.
+This package is used just like any other Resourcepack in Minecraft. It can be easily installed and once it is, you have the freedom to modify any aspect of it to suit your personal preferences.
 
 [How  to load a Resourcepack (Minecraft Wiki)](https://minecraft.fandom.com/wiki/Tutorials/Loading_a_resource_pack)
